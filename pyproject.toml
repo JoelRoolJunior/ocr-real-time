@@ -1,0 +1,45 @@
+[tool.poetry]
+name = "ocr-real-time"
+version = "0.1.0"
+description = ""
+authors = ["JoelRoolJunior <141271415+JoelRoolJunior@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+opencv-python = "^4.10.0.84"
+pillow = "^11.0.0"
+mss = "^10.0.0"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.3"
+pytest-cov = "^6.0.0"
+isort = "^5.13.2"
+blue = "^0.9.1"
+taskipy = "^1.14.0"
+
+
+[tool.poetry.group.doc.dependencies]
+mkdocs-material = "^9.5.45"
+mkdocstrings = "^0.27.0"
+mkdocstrings-python = "^1.12.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pytest.ini_options]
+pythonpath = "."
+addopts = "--doctest-modules"
+
+[tool.isort]
+profile = "black"
+line_length = "79"
+
+[tool.taskipy.tasks]
+lint = "blue --check --diff . && isort --check --diff ."
+docs = "mkdocs serve"
+pre_test = "task lint"
+test = "pytest -s -x --cov=ocr_real_time -vv"
+post_test = "coverage html"
