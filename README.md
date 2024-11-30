@@ -5,7 +5,7 @@
 - Deve ser possível clicar na localização das palavras por linha de comando ou de outro modo durante a execução do programa.
 
 # DÚVIDAS
-- É melhor fazer algo especializado para um sistema operacional?
+- É melhor fazer algo especializado para um sistema operacional ou algo genérico?
     - Windows
     - Linux
     - MacOS
@@ -23,5 +23,7 @@
 
 ## Fazendo 🚧
 - Teste de screenshot com diversas ferramentas de manipulação de janelas.
+    - o `mss` pareceu o mais apropriado para o meu objetivo.
+- Screenshot e caminhos
 
 ## Completo✅
