@@ -1,1 +1,19 @@
-site_name: My Docs
+site_name: OCR Real Time
+repo_url: https://github.com/JoelRoolJunior/ocr-real-time
+repo_name: joelsito/ocr-real-time
+# edit-uri: tree/main/docs
+
+theme:
+  name: material
+  language: en
+  logo: assets/ocr_logo.png
+  favicon: assets/ocr_logo.png
+
+markdown_extensions:
+  - attr_list
+
+plugins:
+  - mkdocstrings:
+      handlers:
+        python:
+          paths: [ocr_real_time]
