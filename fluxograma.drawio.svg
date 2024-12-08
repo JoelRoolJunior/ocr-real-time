@@ -1,4 +1,4 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="168px" height="376px" viewBox="-0.5 -0.5 168 376" content="&lt;mxfile&gt;&lt;diagram id=&quot;vFvZT1PxnZ5FP2UfUlhy&quot; name=&quot;Page-1&quot;&gt;zVZNb5wwEP01XCPALCHHlqQfUqJW2UObowVTsAQYGe8C/fU16+HT7GrVSGRPMI83eN7MG8kWCfPmq6Bl+sJjyCzXjhuLPFqu69i2qx4d0mrEdxwNJILFSBqBPfsLfSaiBxZDNSNKzjPJyjkY8aKASM4wKgSv57Q/PJufWtIEDGAf0cxEf7FYphoNdvaIfwOWpP3JSrH+ktOejECV0pjXE4g8WSQUnEv9ljchZF3z+r7ovC9nvg6FCSjkNQk7nXCk2QG1YV2y7cVCrLRjWPBCPT6nMs9U5KhXTe84ZytAqOIHESGL4NCoSABZ3qBe2QZ4DlK0iiIgo5Id53+nOL9k4I0S1QuqXFdMDMX7SAAUVap6vtQu+KGIocu0ldY6ZRL2JT2pqJW111pxBCGhudwMUyYmkAAHgosRoE3q0WVOb5104jDPfn9j7j/GCp5pBX8jK3iG4h/h6815wPE3NMHDx5jAN00QbGQC31D8Cmre4uZ8MMx3Cx8ERlfC5+831xLibtgSx71iN4r4U3e/UFGU0api0bwH0DD5u2vX3Q6jt8mXxwY7eQraPihUoZOkLnybfhvTTlGf93+bGJibSNZnMun5bqXlPXb1wuIJPzlT5Q0jd73FFjwsRqmLx6zpTWfxo6V3lpbQio3/qHHSdkIrO0J1vl7PWx5jXy7r3fyLdLOcheW1vnEBhgGv7YQKx6uppo8XfPL0Dw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="343px" height="376px" viewBox="-0.5 -0.5 343 376" content="&lt;mxfile&gt;&lt;diagram id=&quot;vFvZT1PxnZ5FP2UfUlhy&quot; name=&quot;Page-1&quot;&gt;zVdNb9swDP01vg7+rnNs3K4bsGFDc9h6VG3WNuBYhqwkzn796IiKP5QEBoqmuSTmE2mRj4+KYnnxun0SrM5/8hRKy7XT1vIeLNcN7jz87IC9AvxooYBMFKmCnB5YFf+AQJvQTZFCM3KUnJeyqMdgwqsKEjnCmBB8N3Z74+V415plYACrhJUm+qdIZa7QKLB7/BsUWa53dmxaWTPtTECTs5TvBpD3aHmx4Fyqp3UbQ9lxp3lRcV/PrB4TE1DJOQGBCtiyckO1UV5yr4uFFGsns+IVfi1zuS7RcvDR3JByaPhGJPQKardkIgPy8hXUvXwQRkk+AV+DFHt0EFAyWWzHxDPqX3b060vEB6rydMWeUfEqEQBVkyPn09oF31QpdJE21rrLCwmrmh3K2qGyZ1KxBSGhvVgmrXoRNYQGIyKZ7HqVOVo6+UBhvv1+Yu6uIgXflEL4WVLwjYp/xc83pwEnvKIIFlcRQWiKIPosEYRGxc+A/RY3p4Njf6+hg8hgJf7x/eYo8dwrUuK4M2ajSu+7+wVaScmapkjGHEBbyL8dXV8Csl4GKw8tMXkw9tqoMNFBUGe+DNf6sIOl42ZNYmROojdzEgecByco19jsgaUdfvMC8z223PUnU7CYtFJVQ1HDm87kRVPtTCWhKDDeg+1k+4Fb3Tk05/P1/ek29uW03u1/0d1MZyJ5VV8/AMcGz5sJ8zZlxa51v8QkQLx1RwGaS9RiWKIulq94rIaZPKiTEA3ErJYbARrHnV9738mYGaeKcYScEP7ZUyXQP7Aff+lCs7/bK777P0je438=&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
         <path d="M 107 87 L 107 120.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
@@ -77,6 +77,27 @@
         </g>
         <path d="M 107 327 L 107 357 Q 107 367 97 367 L 17 367 Q 7 367 7 357 L 7 17 Q 7 7 17 7 L 97 7 Q 107 7 107 17 L 107 40.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
         <path d="M 107 45.88 L 103.5 38.88 L 107 40.63 L 110.5 38.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="222" y="47" width="120" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 67px; margin-left: 282px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                «interface»
+                                <br/>
+                                <b>
+                                    Capture
+                                </b>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="282" y="71" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    «interface»...
+                </text>
+            </switch>
+        </g>
     </g>
     <switch>
         <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
